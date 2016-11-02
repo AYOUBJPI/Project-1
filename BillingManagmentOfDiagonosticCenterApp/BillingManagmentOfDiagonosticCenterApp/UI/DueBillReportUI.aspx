@@ -86,7 +86,7 @@
                 <!--Main Contant-->
 
                 <div class="row">
-                    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 col-md-offset-3">
+                    <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12 col-md-offset-2">
 
                         <!--UnPaide Bill Section-->
                         <div class="panel panel-default">
